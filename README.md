@@ -46,10 +46,7 @@ AuraEngine brings high-end aesthetics to both your videos and your photography:
    nano main.py
 5. **Make script executable ans run it**
   ```bash
-  chmod +x main. py
-  python main. py
+  chmod +x main.py
+  python main.py
 
-##*And you are done here😎
-
-## ​**👨‍💻 Developer**
-​Darsh Ameta "Because ChatGPT couldn't, so I did." 😎
+##Thanks. Devloper -- Darsh Ameta😎
