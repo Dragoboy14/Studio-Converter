@@ -20,13 +20,8 @@ I built this because most mobile apps are too slow, compress your quality, or hi
 AuraEngine brings high-end aesthetics to both your videos and your photography:
 * **Photo Mode:** Single-frame processing with 100% quality retention. It scans your `DCIM/Camera` folder for an instant Aura upgrade.
 * **Video Mode (Beast Mode):** Extracts video at 30 FPS, processes frames in parallel batches, and merges them back with the original audio.
----
-## 📽️ Proof of Concept (See it to believe it)
 
-| Mode | Original (Before) | AuraEngine Result |
-| :--- | :--- | :--- |
-| **Photo** | ![Original Photo](assets/photo_before.jpg) | ![Aura Photo](assets/photo_after.jpg) |
-| **Video** | [🔗 View Original Video](assets/video_before.mp4) | [🔗 View Aura Video](assets/video_after.mp4) |
+-----
 
 ## 🚀 Installation & Usage (Termux)
 
