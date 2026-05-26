@@ -49,4 +49,7 @@ AuraEngine brings high-end aesthetics to both your videos and your photography:
   chmod +x main. py
   python main. py
 
-#**And you are done here😎
+##*And you are done here😎
+
+## ​**👨‍💻 Developer**
+​Darsh Ameta "Because ChatGPT couldn't, so I did." 😎
