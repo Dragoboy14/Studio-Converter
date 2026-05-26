@@ -28,8 +28,25 @@ AuraEngine brings high-end aesthetics to both your videos and your photography:
 | **Photo** | ![Original Photo](assets/photo_before.jpg) | ![Aura Photo](assets/photo_after.jpg) |
 | **Video** | [🔗 View Original Video](assets/video_before.mp4) | [🔗 View Aura Video](assets/video_after.mp4) |
 
----
 ## 🚀 Installation & Usage (Termux)
+
 1. **Grant Storage Access:**
    ```bash
    termux-setup-storage
+2. **Install System Dependencies**
+   ```bash
+   pkg update && pkg upgrade
+   pkg install python ffmpeg
+3. **Install libraries**
+   ```bash
+   pip install pillow
+4. **Create Script**
+   ```bash
+   (Copy script from main.py)
+   nano main.py
+5. **Make script executable ans run it**
+  ```bash
+  chmod +x main. py
+  python main. py
+
+#**And you are done here😎
