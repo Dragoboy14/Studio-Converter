@@ -89,7 +89,7 @@ def run_photo_pipeline():
 
 # --- MAIN MENU ---
 if __name__ == "__main__":
-    print("--- 💀 AURA BAAP MULTI-CORE V1 ---")
+    print("--- 💀 AURA FILTER v.1.0 ---")
     print("[1] Photo Edit")
     print("[2] Video Edit (6 Cores / 30 FPS)")
     
